@@ -25,12 +25,13 @@ This project explores back-hand keypoint estimation using CNN-based models train
 ---
 
 ### 3. ✅ YOLOv8 Pose (n, s, m, x)
-- **Framework**: Ultralytics YOLOv8
+- **Framework**: Ultralytics YOLOv8, exported to **ONNX Runtime**
 - **Image Sizes**: 224×224 and 640×640
-- **Best Performance**: Models trained with 224×224 images
+- **Best Performance**: Models trained and exported at 224×224 resolution
+- **Deployment**: ONNX Runtime for high-speed CPU inference
 - **Detection**: Accurate and consistent
 - **Keypoint Estimation**: Highly precise
-- **Top Performer**: `YOLOv8n` @ 224×224 → **30 FPS on CPU**
+- **Top Performer**: `YOLOv8n` @ 224×224 → **30 FPS on CPU with ONNX Runtime**
 - **Observation**: Smaller image sizes improved FPS significantly without compromising keypoint accuracy.
 
 ---
