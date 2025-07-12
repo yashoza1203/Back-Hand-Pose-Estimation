@@ -37,7 +37,7 @@ This project explores back-hand keypoint estimation using CNN-based models train
 ---
 
 ## ▶️ Demo: Best Performing Model
-
+[https://github.com/yashoza1203/Back-Hand-Pose-Estimation/blob/main/Hand%20Pose%20Estimation/best_yolo_model.mp4]
 https://github.com/yashoza1203/Back-Hand-Pose-Estimation/blob/main/Hand%20Pose%20Estimation/best_yolo_model.mp4
 ⬆️ *YOLOv8n @ 224×224 – 30 FPS on CPU (ONNX Runtime)*
 
