@@ -1,6 +1,6 @@
 # 🖐️ Back-Hand Pose Estimation
 
-## ▶️ Demo: Best Performing Model
+## ▶️ Best Performing Model
 
 https://github.com/user-attachments/assets/27095bf7-7b58-4beb-9d4f-98735947d68e
 
